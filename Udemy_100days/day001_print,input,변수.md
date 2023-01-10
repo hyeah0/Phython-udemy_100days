@@ -1,6 +1,6 @@
 ## 두 변수를 받아 락밴드 이름을 만들어 보자
 
-### 코드
+### - 코드
 
 ```
 print("Welcome to the Band Name Generator.")
@@ -12,7 +12,7 @@ pet = input("What's your pet's name?\n")
 print("Your band name could be " + street + " " + pet)
 ```
 
-### 정리
+### - 정리
 
 - print
 
@@ -32,7 +32,7 @@ print("Your band name could be " + street + " " + pet)
 <br>
 <hr>
 
-### 비교
+### - 비교
 
 <table>
     <tr>
