@@ -1,6 +1,6 @@
 ## 두 변수를 받아 락밴드 이름을 만들어 보자
 
-- 코드
+### 코드
 
 ```
 print("Welcome to the Band Name Generator.")
@@ -12,32 +12,28 @@ pet = input("What's your pet's name?\n")
 print("Your band name could be " + street + " " + pet)
 ```
 
-- 정리
+### 정리
 
-  - print
+- print
 
-    - console 창에 가로 값 보여줌
-    - javascript : console.log
-    - java : system.out.println()
+  - console 창에 가로 값 보여줌
 
-  - \n
+- \n
 
-    - 엔터
+  - 엔터
 
-  - input
+- input
 
-    - 사용자에게 데이터를 값을 받을 때 사용
-    - java
-      - Scanner sc = new Scanner
-      - sc.nextInt() / sc.nextLine()
+  - 사용자에게 데이터를 값을 받을 때 사용
 
-  - 변수
-    - 변수 지정시 let, int와 같이 따로 붙이는 게 없다.
-    - python : 변수명 = "A"
-    - java
-    - java
+- 변수
+  - 변수 지정시 let, int와 같이 따로 붙이는 게 없다.
 
-- 비교
+<br>
+<hr>
+
+### 비교
+
 <table>
     <tr>
         <th>-</th>
@@ -46,9 +42,29 @@ print("Your band name could be " + street + " " + pet)
         <th>Java</th>
     </tr>
     <tr>
-        <th>-</th>
-        <th>Python</th>
-        <th>JavaScript</th>
-        <th>Java</th>
+        <td>console창</td>
+        <td>print()</td>
+        <td>console.log()</td>
+        <td>System.out.println()</td>
+    </tr>
+    <tr>
+        <td>입력받기</td>
+        <td>input()</td>
+        <td>prompt("입력창에 보여질 메세지");</td>
+        <td>Scanner sc = new Scanner
+        <br>sc.nextInt() / sc.nextLine()
+        </td>
+    </tr>
+    <tr>
+        <td>변수지정</td>
+        <td>변수명 = "a"</td>
+        <td>let a = "a"
+        <br>const a = "a"
+        </td>
+        <td> String a = "a"
+        <br> Final String A = "a"
+        </td>
     </tr>
 </table>
+
+- [자바 입력값 받기 추가 참고](https://github.com/hyeah0/SmartWeb_Contents_WebApplication_developer_class/blob/main/1_Java/%EA%B0%92%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0.md)
