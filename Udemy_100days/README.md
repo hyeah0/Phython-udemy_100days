@@ -17,4 +17,14 @@
             <a href="https://replit.com/@hyeah0/day001#main.py">link</a>
         </td>
     </tr>
+    <tr>
+        <td>002</td>
+        <td>datatype_f-String_:.2f</td>
+        <td>
+            <a href="https://github.com/hyeah0/Python/blob/main/Udemy_100days/day002_datatype_f-String_:.2f.md">link</a>
+        </td>
+        <td>
+            <a href="https://replit.com/@hyeah0/day002#main.py">link</a>
+        </td>
+    </tr>
 </table>
