@@ -98,7 +98,7 @@ print(f"Each person should pay: {fin_result}")
     print("{:.2f}".format(1.20))    # 1.20
     ```
 
-    - [참고 블로거](https://firedino.tistory.com/56)
+    - [참고 블로](https://firedino.tistory.com/56)
     - [자바 format 참고](https://github.com/hyeah0/SmartWeb_Contents_WebApplication_developer_class/blob/main/1_Java/day01_%EC%9E%90%EB%B0%94%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
 
 - <h4>String[2]</h4>
