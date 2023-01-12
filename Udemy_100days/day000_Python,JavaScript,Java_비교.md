@@ -29,4 +29,20 @@
         <br> Final String A = "a"
         </td>
     </tr>
+    <tr>
+        <td>텍스트 변수 혼합사용</td>
+        <td>print(f"텍스트 {변수명}")</td>
+        <td>`텍스트 ${변수명}`</td>
+        <td>System.out.println("텍스트" + 변수명)</td>
+    </tr>
+    <tr>
+        <td>format</td>
+        <td>"{:.2f}".format(1.20)
+        <br>print('%.2f'%(1.20))
+        </td>
+        <td>toFixed(fixed)
+        <br>getFloatFixed(1.223, 2)
+        </td>
+        <td>System.out.printf("%.2f\n",1.20)</td>
+    </tr>
 </table>
