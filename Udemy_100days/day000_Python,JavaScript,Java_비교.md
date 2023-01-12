@@ -6,7 +6,11 @@
         <th>Java</th>
     </tr>
     <tr>
-        <td>console창</td>
+        <td>
+            <a href="https://github.com/hyeah0/Python/blob/main/Udemy_100days/day001_print%2Cinput%2C%EB%B3%80%EC%88%98.md">
+                console창
+            </a>
+        </td>
         <td>print()</td>
         <td>console.log()</td>
         <td>System.out.println()</td>
@@ -30,7 +34,10 @@
         </td>
     </tr>
     <tr>
-        <td>텍스트 변수 혼합사용</td>
+        <td>
+             <a href="https://github.com/hyeah0/Python/blob/main/Udemy_100days/day002_dataType_f-String_:.2f.md">
+            텍스트 변수 혼합사용
+        </td>
         <td>print(f"텍스트 {변수명}")</td>
         <td>`텍스트 ${변수명}`</td>
         <td>System.out.println("텍스트" + 변수명)</td>
