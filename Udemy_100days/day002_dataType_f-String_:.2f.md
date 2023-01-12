@@ -139,3 +139,4 @@ print(f"Each person should pay: {fin_result}")
   - 소수점 둘 째자리까지 반올림하고 특정 변수까지 0으로 표시하는 함수이다.
 - javascript : getFloatFixed(1.223, 2)
   - 1.223에서 소수점 둘째 자리까지 반올림
+- [참고 블로거](https://shwjdqls.github.io/javascript-show-float-number/)
