@@ -27,4 +27,17 @@
             <a href="https://replit.com/@hyeah0/day002#main.py">link</a>
         </td>
     </tr>
+    <tr>
+        <td>003</td>
+        <td>if,for,lower(),count()</td>
+        <td>
+            <a href="https://github.com/hyeah0/Python/blob/main/Udemy_100days/day003_if%2Cfor%2Clower()%2Ccount().md">link</a>
+        </td>
+        <td>
+            <a href="https://replit.com/@hyeah0/day003ifforlowercount#main.py">link</a>
+            <br>
+            <a href="https://replit.com/@hyeah0/day003findtreasure#main.py">보물찾기</a>
+        </td>
+    </tr>
+    
 </table>

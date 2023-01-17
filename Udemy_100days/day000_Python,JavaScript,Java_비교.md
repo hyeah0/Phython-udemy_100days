@@ -52,4 +52,29 @@
         </td>
         <td>System.out.printf("%.2f\n",1.20)</td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/hyeah0/Python/blob/main/Udemy_100days/day003_if%2Cfor%2Clower()%2Ccount().md">if, else</a>
+        </td>
+        <td>if(조건식1): 실행문
+        <br>elif(조건식2): 실행문
+        <br>else: 실행문
+        </td>
+        <td colspan="2">
+        if(조건식1){ 실행문 }
+        <br>else if(조건식2){ 실행문 }
+        <br>else{실행문}
+        </td>
+    </tr>
+    <tr>
+        <td>삼항 연산자</td>
+        <td>[True일때] if a > 5 else [False일때]</td>
+        <td colspan="2">조건식1? true일때 실행문 : false일때 실행문
+        </td>
+    </tr>
+    <tr>
+        <td>논리연산자</td>
+        <td>and, or, not</td>
+        <td colspan="2">&&, ||, !</td>
+    </tr>
 </table>
